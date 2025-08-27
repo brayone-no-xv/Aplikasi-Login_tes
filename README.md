@@ -1,2 +1,2 @@
 # Aplikasi Kolaborasi
-Belajar gGithub di Dicoding sangat menyenangkan
+Belajar Github di Dicoding sangat menyenangkan
